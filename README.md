@@ -1,7 +1,7 @@
 # Tutorial for APPM 5720: Data Driven Modeling
 Authors: Josh Myers-Dean, Leonardo Orozco, and Wenhao Wang
 
-This code supplements [Systems biology informed deep learning for inferring parameters and hidden dynamics](Systems biology informed deep learning for inferring parameters and hidden dynamics) by Yazdani et al. and is adapted from [this code](https://github.com/alirezayazdani1/SBINNs).
+This code supplements [Systems biology informed deep learning for inferring parameters and hidden dynamics](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007575&type=printable) by Yazdani et al. and is adapted from [this code](https://github.com/alirezayazdani1/SBINNs).
 
 ### SBINN for Cell Apoptosis
 - Open up `sbinn.ipynb` and click on the `Open in Colab` button in order to gain access to a GPU.
