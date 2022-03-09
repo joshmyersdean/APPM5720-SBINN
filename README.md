@@ -21,6 +21,10 @@ While your experiments are running, check out the next section of this tutorial.
 For this part of the tutorial we can examine how well SINDy can perform compared to the neural network based approach. The biggest benefit of SINDy is that we do not have to wait almost a day for it to train. So while the neural network in part 1 of this tutorial is training, let's play around with SINDy parameters and see how well we can do!
 
 Instructions
-1. Try changing the sparsity threshold (`thrs`)
-2. Try changing the polynomial degree order or experiment with other basis functions
-3. Vary the amount of noise present in the training data
+1. Connect to a non-GPU runtime
+2. Run the first cell
+3. Restart colab runtime 
+4. Run cells 2 through last for default params, do not run cell 1 again
+5. Try changing the sparsity threshold (`thrs`)
+6. Try changing the polynomial degree order or experiment with other basis functions
+7. Vary the amount of noise present in the training data
